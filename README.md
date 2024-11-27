@@ -7,7 +7,7 @@ A **Augurey API** classifica os estágios de degradação de componentes mecâni
 
 ---
 ## Motivação
-![KNNHCPN_classification](https://github.com/joca1905/KNNHCPN/blob/9622ecf604c4f60df4f5246f2ef2380682118c24/Images/Classification_ing.png)
+![Augurey](images/image.png)
 
 <p align="justify">
   
