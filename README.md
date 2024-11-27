@@ -59,10 +59,10 @@ The API takes the following inputs:
 ## Result Details
 
 ### Degradation Stages
-- **Stage 0**: Normal.  
-- **Stage 1**: Minor degradation.  
-- **Stage 2**: Intermediate degradation.  
-- **Stage 3**: Severe (urgent corrective action required).  
+- **Health + Stage 1**: Almost zero degradation, with no apparent defects.  
+- **Stage 2**: Minor degradation.  
+- **Stage 3**: Intermediate degradation.  
+- **Stage 4**: Severe (urgent corrective action required).  
 
 ### Information Provided
 1. **Time spent in each stage**:
