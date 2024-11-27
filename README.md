@@ -91,6 +91,9 @@ The API takes the following inputs:
 - **Time in Stage 3**: 16 minutes.  
 - **Recommended Action**: Immediate corrective maintenance.
 
+
+An example of the API application is available through the link: https://www.youtube.com/watch?v=WnBlYhpmL-4
+
 ---
 
 ## References
